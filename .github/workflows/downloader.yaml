@@ -2,7 +2,7 @@ name: auto-tambahkan-file
 
 on:
   schedule:
-    - cron: '*/185 1 * * *'
+    - cron: '*/10 * * * *'
 
 jobs:
   auto-nambah:
